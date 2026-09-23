@@ -19,6 +19,16 @@ We build and operate our own products, and help founders and small teams ship th
 That means scoping the first useful version, writing the code, connecting the tools,
 and getting it into users' hands.
 
+## How the work gets done
+
+Most of the software we build is written by AI. I'm Rasul, and I spend most of my
+days managing AI agents and figuring out how to make them better at writing code
+and doing the important work of running the business. The agents do the work;
+I do the management: setting direction, improving their tools and workflows,
+reviewing results, and taking responsibility for what ships.
+
+My current setup of choice is **OpenClaw with OpenAI's GPT-6 Astra model**.
+
 ## What we're building
 
 | Project | What it does |
@@ -27,6 +37,11 @@ and getting it into users' hands.
 | **[ReviewGate](https://github.com/LVTD-LLC/reviewgate)** | AI code review for pull requests, with actionable findings and a merge-readiness score. |
 | **[PGSandbox](https://github.com/LVTD-LLC/pgsandbox)** | Disposable Postgres databases for agent experiments, with expiration and cleanup built in. Currently in alpha. |
 | **[CiteGuild](https://github.com/LVTD-LLC/citeguild)** | An editorial source network that helps AI content agents discover relevant articles to cite. |
+| **[Djass](https://djass.dev)** | Generate Django SaaS repositories with auth, billing, deployment defaults, and instructions for the AI agents that build next. |
+| **[Games](https://github.com/LVTD-LLC/games)** | A collection of small, independently built web games. [Play the games](https://games.lvtd.dev). |
+| **[TastefulKit](https://github.com/LVTD-LLC/tastefulkit)** | A searchable design reference library for humans and AI agents. |
+| **[TalentLeads](https://github.com/LVTD-LLC/talentleads)** | Find technical candidates, review structured profiles, and manage targeted outreach from one workspace. |
+| **[Jobs (TJAlerts)](https://github.com/LVTD-LLC/tjalerts)** | Search developer and startup roles by stack, location, salary, and work style. [Browse jobs](https://jobs.lvtd.dev). |
 | **[Awesome](https://github.com/LVTD-LLC/awesome)** | Search and monitor repositories discovered across curated awesome lists. |
 | **[Built with Django](https://github.com/LVTD-LLC/builtwithdjango)** | A place to discover projects, examples, and resources from the Django community. |
 
@@ -40,8 +55,8 @@ Have a product to launch or a workflow that should be software? We can help with
 - **AI workflows and internal tools:** agents connected to real data, integrations, dashboards, and automation.
 - **Product rescue and operations:** debugging unreliable systems, fixing deployment problems, and running managed services.
 
-AI agents, reusable code, and deployment playbooks support the work.
-An accountable engineer owns the decisions, quality, and delivery.
+AI agents handle implementation, using reusable code and deployment playbooks.
+I manage the work and remain accountable for the decisions, quality, and delivery.
 
 **[Send Rasul a project brief](mailto:rasul@lvtd.dev?subject=Project%20brief)** - what you're building, who it's for, and what is getting in the way.
 
