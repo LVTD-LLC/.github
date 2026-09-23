@@ -30,7 +30,7 @@ and getting it into users' hands.
 | **[Awesome](https://github.com/LVTD-LLC/awesome)** | Search and monitor repositories discovered across curated awesome lists. |
 | **[Built with Django](https://github.com/LVTD-LLC/builtwithdjango)** | A place to discover projects, examples, and resources from the Django community. |
 
-[Explore all repositories](https://github.com/orgs/LVTD-LLC/repositories) or [see the products in action](https://lvtd.dev/#projects).
+[Explore all repositories](https://github.com/orgs/LVTD-LLC/repositories) or [see the products in action](https://lvtd.dev/#work).
 
 ## Build with LVTD
 
